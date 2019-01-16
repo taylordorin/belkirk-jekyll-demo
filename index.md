@@ -16,7 +16,7 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: blah blah
-textline: blah **blah**
+textline: "# blah **blah**"
 hero_button:
   text: Learn more
   href: "/about"
