@@ -18,7 +18,7 @@ services:
 sub_heading: blah blah
 textline: "# blah **blah**"
 hero_button:
-  text: Learn more
+  text: Learn more if you click here
   href: "/about"
 show_news: true
 show_staff: false
